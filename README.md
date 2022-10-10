@@ -1,6 +1,8 @@
 # bootcamp-potencia-tech-java-main
 
-<div align="center"><h3>✨Potência Tech powered by iFood - Java Beginners✨</h3></div><br>
+<div align="center">
+<img src="https://i.imgur.com/F2OrkxT.jpg" alt="Potencia Tech Java" width=250 height=250>
+<h3>✨Potência Tech powered by iFood - Java Beginners✨</h3></div><br>
 
 Este, é um repositório para eu poder salvar meus desafios e estudá-los sempre que precisar tirar dúvidas a respeito de codificação em Java.
 Neste bootcamp foi abordado:<br>
