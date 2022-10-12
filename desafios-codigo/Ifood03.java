@@ -6,28 +6,33 @@
  * Saída: Será  impresso o somatório de N até 0.
  */
 
-import java.util.Scanner;
+
+/* 
+Exemplo:
+somatorio(5) = somatorio(4)+5 = 15
+somatorio(4) = somatorio(3)+4 = 10
+somatorio(3) = somatorio(2)+3 = 6
+somatorio(2) = somatorio(1)+2 = 3
+somatorio(1) = somatorio(0)+1 = 1
+somatorio(0) = 0
+*/
+
+import java.io.IOException;
+import java.util.*;
 public class Ifood03 {
+
     public static void main(String[] args) {
-
-            Scanner numero = new Scanner(System.in);
-    
-            //TODO: Imprima o somatório de N (utilize o método "somatorio").
-        }
-    
-        /**
-         * Método útil que calcula o somatório de um número usando recursividade.
-         */
-        static int somatorio(int numero) {
-            if (numero == 0) {
-                return 0;
-            } else {
-                return numero + somatorio(numero - 1);
-            }
+        
+        Scanner numero = new Scanner(System.in);
+        int n = numero.nextInt();
+        System.out.println(somatorio(n));
     }
-
-        @Override
-        public String toString() {
-            return "Ifood03 []";
+        
+        static int somatorio(int n){
+        if (n == 0){ 
+            return 0;
+        } else{
+            return n + somatorio(n - 1);       
         }
+    }        
 }
