@@ -33,3 +33,7 @@ Fortalecendo a Carreira Profissional.
  <hr>
 
 ♦ 3 Desafios de projeto:<br><br>
+
+Projeto 1: https://github.com/Amandapvln/dio-trilha-java-basico <br>
+Projeto 2: https://github.com/Amandapvln/desafio-poo-dio.git <br>
+Projeto 3: 
