@@ -36,4 +36,4 @@ Fortalecendo a Carreira Profissional.
 
 Projeto 1: https://github.com/Amandapvln/dio-trilha-java-basico <br>
 Projeto 2: https://github.com/Amandapvln/desafio-poo-dio.git <br>
-Projeto 3: 
+Projeto 3: https://github.com/Amandapvln/bootcamp-potencia-tech-java-main/tree/main/desafio-dio-SpringBoot
